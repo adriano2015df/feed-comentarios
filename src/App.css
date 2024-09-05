@@ -1,0 +1,6 @@
+.app{
+  background-color: rgb(198, 231, 195);
+  display: flex;
+  place-content: center;
+  min-height: 100vh;
+}
